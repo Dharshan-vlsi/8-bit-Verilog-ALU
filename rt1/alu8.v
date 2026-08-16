@@ -1,4 +1,4 @@
-alu8.v_CODE:
+alu8.v _CODE:
 
 `timescale 1ns/1ps
 module alu8(
